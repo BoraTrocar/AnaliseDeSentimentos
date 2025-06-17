@@ -1,0 +1,71 @@
+﻿id_comentario;comentario;id_livro;id_usuario
+1;Legal;3;4
+2;Legal;4;4
+3;Legal;4;4
+4;Legal;4;4
+5;Legal;52;54
+6;Esse livro é maravilhoso, recomendo muito!;101;1001
+7;Achei a história muito fraca e confusa;102;1002
+8;Bom, mas esperava mais do final;101;1003
+9;Não gostei, achei bem chato;103;1004
+10;Excelente leitura, me prendeu do início ao fim!;101;1005
+11;A linguagem é muito complicada;102;1006
+12;Um dos melhores livros que já li;101;1007
+13;Médio, tem partes boas e partes cansativas;103;1008
+14;História previsível e sem emoção;104;1009
+15;Gostei bastante do enredo e dos personagens;105;1010
+16;Não recomendo, muito ruim;104;1011
+17;Leitura rápida e divertida!;105;1012
+18;Horrível, joguei dinheiro fora;102;1013
+19;Gostei, mas poderia ser mais profundo;103;1014
+20;Impressionante! Uma verdadeira obra-prima;105;1015
+21;Amei esse livro, muito envolvente!;101;2001
+22;Muito fraco, perdi meu tempo.;102;2002
+23;Tem partes boas, mas também partes bem lentas.;103;2003
+24;Trama muito bem construída e personagens cativantes.;101;2004
+25;Não gostei, achei raso e sem emoção.;102;2005
+26;Achei ok, nada demais.;103;2006
+27;Obra-prima, digno de releitura.;104;2007
+28;A história é arrastada demais.;105;2008
+29;História interessante, mas não me prendeu.;106;2009
+30;Me surpreendi positivamente, ótima história.;107;2010
+31;Livro sem graça, não recomendo.;108;2011
+32;Começa bem, mas depois perde o ritmo.;109;2012
+33;Excelente narrativa, leitura fluida.;110;2013
+34;Enredo bagunçado, me perdi facilmente.;111;2014
+35;Gostei de algumas ideias, outras nem tanto.;112;2015
+36;Sensacional! Não conseguia parar de ler.;113;2016
+37;Chato e repetitivo, abandonei no meio.;114;2017
+38;Regular, cumpre o que promete.;115;2018
+39;Uma das melhores leituras do ano.;116;2019
+40;Estilo de escrita ruim, cansativo de ler.;117;2020
+41;Leitura mediana, esperava mais ação.;118;2021
+42;Simplesmente incrível, vale cada página.;119;2022
+43;Esperava mais, me decepcionou.;120;2023
+44;Não é ruim, mas também não é incrível.;121;2024
+45;Bem escrito e muito emocionante.;122;2025
+46;Narrativa confusa, não entendi nada.;123;2026
+47;Me fez pensar, embora não tenha empolgado.;124;2027
+48;Muito bom mesmo, recomendo demais!;101;2028
+49;Detestei a leitura, arrastada demais.;102;2029
+50;Gostei, mas poderia ser mais profundo.;103;2030
+51;Um dos livros mais tocantes que já li.;104;2031
+52;Péssimo, perdi meu tempo completamente.;105;2032
+53;Legalzinho, mas não passa disso.;106;2033
+54;Narrativa empolgante e cheia de surpresas.;107;2034
+55;O livro é parado e mal construído.;108;2035
+56;Tem boas reflexões, mas não me conectei.;109;2036
+57;Me emocionei do começo ao fim!;110;2037
+58;Mal escrito e sem lógica.;111;2038
+59;Achei razoável, mas o final decepciona.;112;2039
+60;Obra excelente, recomendo a todos!;113;2040
+61;História forçada e pouco crível.;114;2041
+62;Interessante, mas não me marcou.;115;2042
+63;Inspirador e muito bem elaborado.;116;2043
+64;Narrativa cansativa, difícil de concluir.;117;2044
+65;Enredo envolvente e muito bem escrito.;118;2045
+66;Tive dificuldade de entender algumas partes.;119;2046
+67;Simples, direto e eficaz.;120;2047
+68;Muito ruim, não consegui terminar.;121;2048
+69;Uma leitura que vale a pena.;122;2049
+70;Ficou no meio do caminho, mas valeu a experiência.;123;2050

@@ -1,0 +1,422 @@
+[
+    {
+        "id_comentario": 1,
+        "comentario": "Legal",
+        "id_livro": 3,
+        "id_usuario": 4
+    },
+    {
+        "id_comentario": 2,
+        "comentario": "Legal",
+        "id_livro": 4,
+        "id_usuario": 4
+    },
+    {
+        "id_comentario": 3,
+        "comentario": "Legal",
+        "id_livro": 4,
+        "id_usuario": 4
+    },
+    {
+        "id_comentario": 4,
+        "comentario": "Legal",
+        "id_livro": 4,
+        "id_usuario": 4
+    },
+    {
+        "id_comentario": 5,
+        "comentario": "Legal",
+        "id_livro": 52,
+        "id_usuario": 54
+    },
+    {
+        "id_comentario": 6,
+        "comentario": "Esse livro é maravilhoso, recomendo muito!",
+        "id_livro": 101,
+        "id_usuario": 1001
+    },
+    {
+        "id_comentario": 7,
+        "comentario": "Achei a história muito fraca e confusa",
+        "id_livro": 102,
+        "id_usuario": 1002
+    },
+    {
+        "id_comentario": 8,
+        "comentario": "Bom, mas esperava mais do final",
+        "id_livro": 101,
+        "id_usuario": 1003
+    },
+    {
+        "id_comentario": 9,
+        "comentario": "Não gostei, achei bem chato",
+        "id_livro": 103,
+        "id_usuario": 1004
+    },
+    {
+        "id_comentario": 10,
+        "comentario": "Excelente leitura, me prendeu do início ao fim!",
+        "id_livro": 101,
+        "id_usuario": 1005
+    },
+    {
+        "id_comentario": 11,
+        "comentario": "A linguagem é muito complicada",
+        "id_livro": 102,
+        "id_usuario": 1006
+    },
+    {
+        "id_comentario": 12,
+        "comentario": "Um dos melhores livros que já li",
+        "id_livro": 101,
+        "id_usuario": 1007
+    },
+    {
+        "id_comentario": 13,
+        "comentario": "Médio, tem partes boas e partes cansativas",
+        "id_livro": 103,
+        "id_usuario": 1008
+    },
+    {
+        "id_comentario": 14,
+        "comentario": "História previsível e sem emoção",
+        "id_livro": 104,
+        "id_usuario": 1009
+    },
+    {
+        "id_comentario": 15,
+        "comentario": "Gostei bastante do enredo e dos personagens",
+        "id_livro": 105,
+        "id_usuario": 1010
+    },
+    {
+        "id_comentario": 16,
+        "comentario": "Não recomendo, muito ruim",
+        "id_livro": 104,
+        "id_usuario": 1011
+    },
+    {
+        "id_comentario": 17,
+        "comentario": "Leitura rápida e divertida!",
+        "id_livro": 105,
+        "id_usuario": 1012
+    },
+    {
+        "id_comentario": 18,
+        "comentario": "Horrível, joguei dinheiro fora",
+        "id_livro": 102,
+        "id_usuario": 1013
+    },
+    {
+        "id_comentario": 19,
+        "comentario": "Gostei, mas poderia ser mais profundo",
+        "id_livro": 103,
+        "id_usuario": 1014
+    },
+    {
+        "id_comentario": 20,
+        "comentario": "Impressionante! Uma verdadeira obra-prima",
+        "id_livro": 105,
+        "id_usuario": 1015
+    },
+    {
+        "id_comentario": 21,
+        "comentario": "Amei esse livro, muito envolvente!",
+        "id_livro": 101,
+        "id_usuario": 2001
+    },
+    {
+        "id_comentario": 22,
+        "comentario": "Muito fraco, perdi meu tempo.",
+        "id_livro": 102,
+        "id_usuario": 2002
+    },
+    {
+        "id_comentario": 23,
+        "comentario": "Tem partes boas, mas também partes bem lentas.",
+        "id_livro": 103,
+        "id_usuario": 2003
+    },
+    {
+        "id_comentario": 24,
+        "comentario": "Trama muito bem construída e personagens cativantes.",
+        "id_livro": 101,
+        "id_usuario": 2004
+    },
+    {
+        "id_comentario": 25,
+        "comentario": "Não gostei, achei raso e sem emoção.",
+        "id_livro": 102,
+        "id_usuario": 2005
+    },
+    {
+        "id_comentario": 26,
+        "comentario": "Achei ok, nada demais.",
+        "id_livro": 103,
+        "id_usuario": 2006
+    },
+    {
+        "id_comentario": 27,
+        "comentario": "Obra-prima, digno de releitura.",
+        "id_livro": 104,
+        "id_usuario": 2007
+    },
+    {
+        "id_comentario": 28,
+        "comentario": "A história é arrastada demais.",
+        "id_livro": 105,
+        "id_usuario": 2008
+    },
+    {
+        "id_comentario": 29,
+        "comentario": "História interessante, mas não me prendeu.",
+        "id_livro": 106,
+        "id_usuario": 2009
+    },
+    {
+        "id_comentario": 30,
+        "comentario": "Me surpreendi positivamente, ótima história.",
+        "id_livro": 107,
+        "id_usuario": 2010
+    },
+    {
+        "id_comentario": 31,
+        "comentario": "Livro sem graça, não recomendo.",
+        "id_livro": 108,
+        "id_usuario": 2011
+    },
+    {
+        "id_comentario": 32,
+        "comentario": "Começa bem, mas depois perde o ritmo.",
+        "id_livro": 109,
+        "id_usuario": 2012
+    },
+    {
+        "id_comentario": 33,
+        "comentario": "Excelente narrativa, leitura fluida.",
+        "id_livro": 110,
+        "id_usuario": 2013
+    },
+    {
+        "id_comentario": 34,
+        "comentario": "Enredo bagunçado, me perdi facilmente.",
+        "id_livro": 111,
+        "id_usuario": 2014
+    },
+    {
+        "id_comentario": 35,
+        "comentario": "Gostei de algumas ideias, outras nem tanto.",
+        "id_livro": 112,
+        "id_usuario": 2015
+    },
+    {
+        "id_comentario": 36,
+        "comentario": "Sensacional! Não conseguia parar de ler.",
+        "id_livro": 113,
+        "id_usuario": 2016
+    },
+    {
+        "id_comentario": 37,
+        "comentario": "Chato e repetitivo, abandonei no meio.",
+        "id_livro": 114,
+        "id_usuario": 2017
+    },
+    {
+        "id_comentario": 38,
+        "comentario": "Regular, cumpre o que promete.",
+        "id_livro": 115,
+        "id_usuario": 2018
+    },
+    {
+        "id_comentario": 39,
+        "comentario": "Uma das melhores leituras do ano.",
+        "id_livro": 116,
+        "id_usuario": 2019
+    },
+    {
+        "id_comentario": 40,
+        "comentario": "Estilo de escrita ruim, cansativo de ler.",
+        "id_livro": 117,
+        "id_usuario": 2020
+    },
+    {
+        "id_comentario": 41,
+        "comentario": "Leitura mediana, esperava mais ação.",
+        "id_livro": 118,
+        "id_usuario": 2021
+    },
+    {
+        "id_comentario": 42,
+        "comentario": "Simplesmente incrível, vale cada página.",
+        "id_livro": 119,
+        "id_usuario": 2022
+    },
+    {
+        "id_comentario": 43,
+        "comentario": "Esperava mais, me decepcionou.",
+        "id_livro": 120,
+        "id_usuario": 2023
+    },
+    {
+        "id_comentario": 44,
+        "comentario": "Não é ruim, mas também não é incrível.",
+        "id_livro": 121,
+        "id_usuario": 2024
+    },
+    {
+        "id_comentario": 45,
+        "comentario": "Bem escrito e muito emocionante.",
+        "id_livro": 122,
+        "id_usuario": 2025
+    },
+    {
+        "id_comentario": 46,
+        "comentario": "Narrativa confusa, não entendi nada.",
+        "id_livro": 123,
+        "id_usuario": 2026
+    },
+    {
+        "id_comentario": 47,
+        "comentario": "Me fez pensar, embora não tenha empolgado.",
+        "id_livro": 124,
+        "id_usuario": 2027
+    },
+    {
+        "id_comentario": 48,
+        "comentario": "Muito bom mesmo, recomendo demais!",
+        "id_livro": 101,
+        "id_usuario": 2028
+    },
+    {
+        "id_comentario": 49,
+        "comentario": "Detestei a leitura, arrastada demais.",
+        "id_livro": 102,
+        "id_usuario": 2029
+    },
+    {
+        "id_comentario": 50,
+        "comentario": "Gostei, mas poderia ser mais profundo.",
+        "id_livro": 103,
+        "id_usuario": 2030
+    },
+    {
+        "id_comentario": 51,
+        "comentario": "Um dos livros mais tocantes que já li.",
+        "id_livro": 104,
+        "id_usuario": 2031
+    },
+    {
+        "id_comentario": 52,
+        "comentario": "Péssimo, perdi meu tempo completamente.",
+        "id_livro": 105,
+        "id_usuario": 2032
+    },
+    {
+        "id_comentario": 53,
+        "comentario": "Legalzinho, mas não passa disso.",
+        "id_livro": 106,
+        "id_usuario": 2033
+    },
+    {
+        "id_comentario": 54,
+        "comentario": "Narrativa empolgante e cheia de surpresas.",
+        "id_livro": 107,
+        "id_usuario": 2034
+    },
+    {
+        "id_comentario": 55,
+        "comentario": "O livro é parado e mal construído.",
+        "id_livro": 108,
+        "id_usuario": 2035
+    },
+    {
+        "id_comentario": 56,
+        "comentario": "Tem boas reflexões, mas não me conectei.",
+        "id_livro": 109,
+        "id_usuario": 2036
+    },
+    {
+        "id_comentario": 57,
+        "comentario": "Me emocionei do começo ao fim!",
+        "id_livro": 110,
+        "id_usuario": 2037
+    },
+    {
+        "id_comentario": 58,
+        "comentario": "Mal escrito e sem lógica.",
+        "id_livro": 111,
+        "id_usuario": 2038
+    },
+    {
+        "id_comentario": 59,
+        "comentario": "Achei razoável, mas o final decepciona.",
+        "id_livro": 112,
+        "id_usuario": 2039
+    },
+    {
+        "id_comentario": 60,
+        "comentario": "Obra excelente, recomendo a todos!",
+        "id_livro": 113,
+        "id_usuario": 2040
+    },
+    {
+        "id_comentario": 61,
+        "comentario": "História forçada e pouco crível.",
+        "id_livro": 114,
+        "id_usuario": 2041
+    },
+    {
+        "id_comentario": 62,
+        "comentario": "Interessante, mas não me marcou.",
+        "id_livro": 115,
+        "id_usuario": 2042
+    },
+    {
+        "id_comentario": 63,
+        "comentario": "Inspirador e muito bem elaborado.",
+        "id_livro": 116,
+        "id_usuario": 2043
+    },
+    {
+        "id_comentario": 64,
+        "comentario": "Narrativa cansativa, difícil de concluir.",
+        "id_livro": 117,
+        "id_usuario": 2044
+    },
+    {
+        "id_comentario": 65,
+        "comentario": "Enredo envolvente e muito bem escrito.",
+        "id_livro": 118,
+        "id_usuario": 2045
+    },
+    {
+        "id_comentario": 66,
+        "comentario": "Tive dificuldade de entender algumas partes.",
+        "id_livro": 119,
+        "id_usuario": 2046
+    },
+    {
+        "id_comentario": 67,
+        "comentario": "Simples, direto e eficaz.",
+        "id_livro": 120,
+        "id_usuario": 2047
+    },
+    {
+        "id_comentario": 68,
+        "comentario": "Muito ruim, não consegui terminar.",
+        "id_livro": 121,
+        "id_usuario": 2048
+    },
+    {
+        "id_comentario": 69,
+        "comentario": "Uma leitura que vale a pena.",
+        "id_livro": 122,
+        "id_usuario": 2049
+    },
+    {
+        "id_comentario": 70,
+        "comentario": "Ficou no meio do caminho, mas valeu a experiência.",
+        "id_livro": 123,
+        "id_usuario": 2050
+    }
+]
