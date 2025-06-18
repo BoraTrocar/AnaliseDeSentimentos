@@ -4,3 +4,4 @@ torch
 pandas
 nltk
 unidecode
+matplotlib
